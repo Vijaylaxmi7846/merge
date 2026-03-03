@@ -8,8 +8,10 @@ public class EvenOdd {
         } else {
             System.out.println("The number is Odd");
         }
+
+        System.out.println("Hi nextgen");
+
         System.out.println("Hello main");
-        
-    
+
     }
 }
