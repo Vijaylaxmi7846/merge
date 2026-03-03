@@ -9,6 +9,6 @@ public class EvenOdd {
             System.out.println("The number is Odd");
         }
         
-    
+    System.out.println("Hi nextgen");
     }
 }
